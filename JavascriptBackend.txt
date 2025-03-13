@@ -1,0 +1,29 @@
+==================================================================================================== 
+==================== lecture 1 - Javascript Backend Roadmap | chai aur backend ==================== 
+==================================================================================================== 
+
+
+    2 major components
+        1 - A programming language (Java , Javascript, php, c++)
+        2 - DataBase (Mongo, mysql, Postgress , sqlit)
+
+    * A Javascript based Backend contain
+        data , file , ThirdParty(Api)
+
+       Folder Structure:
+       * DB  
+       * Models
+       * Controller
+       * Routes
+       * MiddleWares
+       * Utils
+       * More(Depends)
+
+
+ 
+==================================================================================================== 
+==================== lecture 2 - How to deploy backend code in production ==================== 
+==================================================================================================== 
+
+npm i express
+npm i npm i dotenv (for production)
